@@ -11,10 +11,10 @@ import com.hardik.movieapp.cmp.presentation.screens.DetailScreen
 import com.hardik.movieapp.cmp.presentation.screens.PopularMoviesScreen
 import com.hardik.movieapp.cmp.presentation.screens.TrendingMoviesScreen
 import com.hardik.movieapp.cmp.presentation.screens.UpcomingMoviesScreen
-import movieapp_cmp.composeapp.generated.resources.Res
-import movieapp_cmp.composeapp.generated.resources.ic_favorite
-import movieapp_cmp.composeapp.generated.resources.ic_love
-import movieapp_cmp.composeapp.generated.resources.ic_movie
+import movie_compose_kmp.composeapp.generated.resources.Res
+import movie_compose_kmp.composeapp.generated.resources.ic_favorite
+import movie_compose_kmp.composeapp.generated.resources.ic_love
+import movie_compose_kmp.composeapp.generated.resources.ic_movie
 import org.jetbrains.compose.resources.DrawableResource
 
 object Graph {

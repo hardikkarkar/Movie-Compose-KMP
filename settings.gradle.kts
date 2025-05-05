@@ -1,4 +1,4 @@
-rootProject.name = "MovieApp_CMP"
+rootProject.name = "Movie-Compose-KMP"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
